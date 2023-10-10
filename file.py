@@ -5,4 +5,3 @@ def new():
 
 def changed():
     print("CHANGED")
-    return "changed"
